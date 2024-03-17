@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Anna, third-year student in Computer Science 👩‍💻 
+I'm Anna, a third-year student in Computer Science 👩‍💻 
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhoNnc1MDdzYTVpaHJyN29sOXAwYXp0ODRnODc5dWVycGNxdTc1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KszkcokOMwO6s2aJ99/giphy.gif" width="300"/>
