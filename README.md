@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anna, a Full-Stack Engineer 👩‍💻 
+I'm Anna, a Full-Stack Engineer working with PHP, Vue.js, and MongoDB 👩‍💻 
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhoNnc1MDdzYTVpaHJyN29sOXAwYXp0ODRnODc5dWVycGNxdTc1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KszkcokOMwO6s2aJ99/giphy.gif" width="300"/>
